@@ -1,4 +1,5 @@
 ### Hi there 👋
+Newbie coming to town. Exploring Github now :)
 
 <!--
 **RachelXY/RachelXY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
